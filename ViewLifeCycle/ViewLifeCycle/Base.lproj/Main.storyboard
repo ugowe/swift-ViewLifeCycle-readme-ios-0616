@@ -40,12 +40,12 @@
                                 <state key="normal" backgroundImage="ToyStory"/>
                             </button>
                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleAspectFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Mn0-K8-Eof">
-                                <rect key="frame" x="170" y="263" width="99" height="143"/>
+                                <rect key="frame" x="181" y="263" width="99" height="143"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" backgroundImage="Titanic"/>
                             </button>
                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleAspectFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="vei-uF-l96">
-                                <rect key="frame" x="170" y="414" width="99" height="143"/>
+                                <rect key="frame" x="181" y="414" width="99" height="143"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" backgroundImage="TrumanShow"/>
                             </button>
